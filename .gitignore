@@ -1,0 +1,17 @@
+# Folderul de output temporar
+/temp/
+
+# Fisiere de compilare si log-uri LaTeX
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.lof
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.fls
+*.fdb_latexmk
